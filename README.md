@@ -10,25 +10,25 @@ Fork this checklist, and complete it prior to submitting your Capstone for revie
 
 - [ ] Clearly explains the real-world problem your project attempts to solve in...
   - [ ] Readme
-  - [ ] Notebook
+  - [x] Notebook
   - [ ] Slides
 
 ## Data Understanding
 
 - [ ] Describes the data source in...
-  - [ ] Readme
-  - [ ] Notebook
+  - [x] Readme
+  - [x] Notebook
   - [ ] Slides
 - [ ] Notebook describes properties of all variables used in project
 
 ## Data Preparation
 
-- [ ] Notebook or `.py` file(s) include code to prepare your raw data for analysis
+- [x] Notebook or `.py` file(s) include code to prepare your raw data for analysis
 
 ## Modeling
 
-- [ ] Notebook includes a baseline model
-- [ ] Notebook includes additional models built iteratively from the baseline model
+- [x] Notebook includes a baseline model
+- [x] Notebook includes additional models built iteratively from the baseline model
 - [ ] Preferred model is described in...
   - [ ] Readme
   - [ ] Notebook
@@ -36,16 +36,16 @@ Fork this checklist, and complete it prior to submitting your Capstone for revie
 
 ## Evaluation
 
-- [ ] Model validation is included in...
+- [] Model validation is included in...
   - [ ] Readme
-  - [ ] Notebook
+  - [x] Notebook
   - [ ] Slides
 
 ## Readme Content
 
 - [ ] Readme includes...
   - [ ] Data science process steps
-  - [ ] Future improvement ideas
+  - [x] Future improvement ideas
   - [ ] Repository navigation
   - [ ] Reproduction instructions
   - [ ] Links to presentation and sources
@@ -53,9 +53,9 @@ Fork this checklist, and complete it prior to submitting your Capstone for revie
 ## Notebook Content
 
 - [ ] Notebook includes...
-  - [ ] Data understanding
-  - [ ] Data preparation
-  - [ ] Modeling
+  - [x] Data understanding
+  - [x] Data preparation
+  - [x] Modeling
   - [ ] Evaluation
 
 ## Presentation Content
@@ -77,6 +77,6 @@ Fork this checklist, and complete it prior to submitting your Capstone for revie
 ## Sourcing
 
 - [ ] Properly cites...
-  - [ ] Data
-  - [ ] Images
+  - [x] Data
+  - [x] Images
   - [ ] Any other content created by others (e.g. text, code)
